@@ -1,5 +1,3 @@
-<hr>
-
 <!-- Latest Tweets | START  -->
 
 <h3 align="center">Latest Tweets</h3>
