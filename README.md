@@ -7,10 +7,10 @@
 
   <br>
 
-- 🌱 I’m currently learning **Js and React**
-- 💬 Ask me about **Js, React and Python**
-- 📫 How to reach me: [@imshubbh](https://twitter.com/imshubbh) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 🌱 &nbsp; I’m currently learning **Js and React**
+- 💬 &nbsp; Ask me about **Js, React and Python**
+- 📫 &nbsp; How to reach me: [@imshubbh](https://twitter.com/imshubbh) on Twitter
+- ⚡ &nbsp; Fun fact: Big Fan of the :zap: emoji
 
 </details>
 
