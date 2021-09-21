@@ -1,18 +1,41 @@
-<div align="center">
+<h2 align="center">👋 Hello! I'm Shubham.</h2>
 
-**👋 Hello! I'm Shubham.**
+<hr>
+
+<details>
+  <summary><b>👨‍💻 About Me </b></summary>
+
+- 🌱 I’m currently learning **Js and React**
+- 💬 Ask me about **Js, React and Python**
+- 📫 How to reach me: [@imshubbh](https://twitter.com/imshubbh) on Twitter
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+</details>
+
+---
+
+<details>
+  <summary><b>📊  Weekly development breakdown </b></summary>
+  <br/>
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
-</div>
+</details>
+
+ </div>
+
+---
 
 <!-- Latest Tweets | START  -->
 
-<h2 align="center">Latest Tweets</h2>
+<details>
+
+<summary><b>Latest Tweets</b></summary>
 <br>
 
 <p align="center"><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
@@ -20,10 +43,12 @@ No Activity tracked this Week
 
 <!-- Latest Tweets | END   -->
 
-<hr>
+</details>
+
+---
 
 <!-- Social Profile | START  -->
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <br>
 <div align="center">
