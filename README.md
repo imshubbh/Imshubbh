@@ -1,6 +1,12 @@
+<!-- Greeting Message | START  -->
+
 <h2 align="center">👋 Hello! I'm Shubham.</h2>
 
-<hr>
+<!-- Greeting Message | END  -->
+
+---
+
+<!-- About ME | START  -->
 
 <details>
   <summary><b>👨‍💻&nbsp; About Me </b></summary>
@@ -14,7 +20,11 @@
 
 </details>
 
+<!-- About ME | END  -->
+
 ---
+
+<!-- Weekly Breakdown | START  -->
 
 <details>
   <summary><b>📊 &nbsp; Weekly development breakdown </b></summary>
@@ -30,6 +40,8 @@ No Activity tracked this Week
 
 </details>
 
+<!-- Weekly Breakdown | END  -->
+
 ---
 
 <!-- Latest Tweets | START  -->
@@ -42,13 +54,14 @@ No Activity tracked this Week
 <p align="center"><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
 </div>
 
-<!-- Latest Tweets | END   -->
-
 </details>
+
+<!-- Latest Tweets | END   -->
 
 ---
 
 <!-- Social Profile | START  -->
+
 <br>
 <h3 align="center">Connect with me:</h3>
 <br>
