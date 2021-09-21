@@ -3,27 +3,22 @@
 <hr>
 
 <details>
-  <summary><b>👨‍💻 About Me </b></summary>
+  <summary><b>👨‍💻&nbsp;About Me </b></summary>
 
   <br>
-
-  <div align="center">
 
 - 🌱 I’m currently learning **Js and React**
 - 💬 Ask me about **Js, React and Python**
 - 📫 How to reach me: [@imshubbh](https://twitter.com/imshubbh) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
-<div>
 </details>
 
 ---
 
 <details>
-  <summary><b>📊  Weekly development breakdown </b></summary>
+  <summary><b>📊 &nbsp;Weekly development breakdown </b></summary>
   <br/>
-
-  <div align="center">
 
 <!--START_SECTION:waka-->
 
@@ -32,8 +27,6 @@ No Activity tracked this Week
 ```
 
 <!--END_SECTION:waka-->
-
-<div>
 
 </details>
 
@@ -46,7 +39,7 @@ No Activity tracked this Week
 <summary><b>Latest Tweets</b></summary>
 <br>
 
-<p align="center"><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<p ><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
 </div>
 
 <!-- Latest Tweets | END   -->
