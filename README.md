@@ -5,10 +5,16 @@
 <details>
   <summary><b>👨‍💻 About Me </b></summary>
 
+  <br>
+
+  <div align="center">
+
 - 🌱 I’m currently learning **Js and React**
 - 💬 Ask me about **Js, React and Python**
 - 📫 How to reach me: [@imshubbh](https://twitter.com/imshubbh) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
+
+<div>
 </details>
 
 ---
@@ -16,6 +22,8 @@
 <details>
   <summary><b>📊  Weekly development breakdown </b></summary>
   <br/>
+
+  <div align="center">
 
 <!--START_SECTION:waka-->
 
@@ -25,9 +33,9 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 
-</details>
+<div>
 
- </div>
+</details>
 
 ---
 
