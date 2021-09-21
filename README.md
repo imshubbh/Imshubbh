@@ -1,6 +1,9 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Latest Tweets | START  -->
 
-<h3 align="center">Latest Tweets</h3>
+<h2 align="center">Latest Tweets</h2>
 <br>
 
 <p align="center"><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
