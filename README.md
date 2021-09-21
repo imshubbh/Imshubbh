@@ -39,7 +39,7 @@ No Activity tracked this Week
 <summary><b>Latest Tweets</b></summary>
 <br>
 
-<p ><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<p align="center"><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
 </div>
 
 <!-- Latest Tweets | END   -->
