@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Latest Tweets | START  -->
 
 <h2 align="center">Latest Tweets</h2>
