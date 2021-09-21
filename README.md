@@ -3,7 +3,7 @@
 <hr>
 
 <details>
-  <summary><b>👨‍💻&nbsp;About Me </b></summary>
+  <summary><b>👨‍💻&nbsp; About Me </b></summary>
 
   <br>
 
@@ -17,7 +17,7 @@
 ---
 
 <details>
-  <summary><b>📊 &nbsp;Weekly development breakdown </b></summary>
+  <summary><b>📊 &nbsp; Weekly development breakdown </b></summary>
   <br/>
 
 <!--START_SECTION:waka-->
@@ -36,7 +36,7 @@ No Activity tracked this Week
 
 <details>
 
-<summary><b>Latest Tweets</b></summary>
+<summary><b> 🐦 &nbsp; Latest Tweets</b></summary>
 <br>
 
 <p align="center"><a href="https://twitter.com/imshubbh"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=imshubbh&show_reply=off&amp;layout=wide" alt="github-readme-twitter"></a></p>
