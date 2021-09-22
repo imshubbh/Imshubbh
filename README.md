@@ -120,6 +120,13 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 
 <!-- Social Profile | END -->
 
+<br>
+<div align="center">
+
+<h6>Last Update: 22/09/2021</h6>
+
+<div>
+
 <!-- Social MEDIA  -->
 
 [website]: https://imshubbh.com
