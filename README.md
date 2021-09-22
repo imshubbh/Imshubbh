@@ -1,6 +1,6 @@
 <!-- Greeting Message | START  -->
 
-<h2 align="center"><img src="https://imshubbh.com/Github/waving_hand.gif" width="29px"> Hello! I'm Shubham.</h2>
+<h2 align="center"><img width="30px" src="https://imshubbh.com/Github/waving_hand.gif" /> Hello! I'm Shubham.</h2>
 
 <!-- Greeting Message | END  -->
 
