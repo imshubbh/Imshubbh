@@ -58,11 +58,13 @@
   <br/>
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   3 hrs 7 mins    ███████████████████████▒░   93.66 % 
-YAML       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown   3 hrs 7 mins    ███████████████████████▒░   93.66 %
+YAML       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
+
 <!--END_SECTION:waka-->
 
 </details>
@@ -94,7 +96,7 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 <br>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -103,10 +105,10 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 
 <!-- Social MEDIA  -->
 
-[website]: https//imshubbh.com
-[facebook]: https//facebook.com/imshubbh
-[youtube]: https//youtube.com/c/imshubbh
-[twitter]: https//twitter.com/imshubbh
-[instagram]: https//instagram.com/imshubbh
-[github]: https//github.com/imshubbh
+[website]: https://imshubbh.com
+[facebook]: https://facebook.com/imshubbh
+[youtube]: https://youtube.com/c/imshubbh
+[twitter]: https://twitter.com/imshubbh
+[instagram]: https://instagram.com/imshubbh
+[github]: https://github.com/imshubbh
 [linkedin]: https://linkedin.com/in/imshubbh/
