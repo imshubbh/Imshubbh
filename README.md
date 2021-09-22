@@ -84,6 +84,12 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 - [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4065874445?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.92)
 <!-- GOODREADS-LIST:END -->
 
+<!-- GOODREADS-READ-LIST:START -->
+
+<h3 align="center">📚 &nbsp; Last 5 Books I've Read 🤓 </h3>
+
+<!-- GOODREADS-LIST:END -->
+
 </details>
 
 <!-- Current Reading | END  -->
