@@ -1,22 +1,21 @@
-name: Waka Readme
+# name: Waka Readme
 
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am IST
-    - cron: "30 18 * * *"
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     # Runs at 12am IST
+#     - cron: "30 18 * * *"
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+# jobs:
+#   update-readme:
+#     name: Update this repo's README
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: athul/waka-readme@master
+#         with:
+#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-
-# Good Reads Add 
+# Good Reads Add
 
 name: Latest book list from a goodreads
 on:
@@ -36,3 +35,13 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "136589918"
           shelf: "currently-reading"
+
+          #  DEMO  add WAKA
+
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
