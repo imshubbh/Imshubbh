@@ -71,29 +71,20 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 
 <!-- Weekly Breakdown | END  -->
 
----
-
 <!-- Current Reading | START  -->
 
-<details>
-  <summary><b>📚 &nbsp; Books I'm currently reading </b></summary>
-  <br/>
+  <!-- <b>📚 &nbsp; Books I'm currently reading </b></summary>
+  <br/> -->
 
 <!-- GOODREADS-LIST:START -->
 
-- [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4065874445?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.92)
 <!-- GOODREADS-LIST:END -->
 
-<h3>📚 &nbsp; Last 5 Books I've Read 🤓 </h3>
+<!-- <p align="center">📚 &nbsp; Last 5 Books I've Read 🤓 </p> -->
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Till The Last Breath](https://www.goodreads.com/review/show/4126477529?utm_medium=api&utm_source=rss) by Durjoy Datta (⭐⭐⭐⭐⭐)
-- [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/4065877771?utm_medium=api&utm_source=rss) by Phil Knight (⭐⭐⭐⭐⭐)
-- [Let&apos;s Talk Money](https://www.goodreads.com/review/show/4065877163?utm_medium=api&utm_source=rss) by Monika Halan (⭐⭐⭐⭐)
-- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/4123079141?utm_medium=api&utm_source=rss) by James Clear (unrated)
-<!-- GOODREADS-READ-LIST:END -->
 
-</details>
+<!-- GOODREADS-READ-LIST:END -->
 
 <!-- Current Reading | END  -->
 

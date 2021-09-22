@@ -1,23 +1,4 @@
-# name: Waka Readme
-
-# on:
-#   workflow_dispatch:
-#   schedule:
-#     # Runs at 12am IST
-#     - cron: "30 18 * * *"
-
-# jobs:
-#   update-readme:
-#     name: Update this repo's README
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-# Good Reads Add
-
-name: Latest book list from a goodreads
+name: Manual Run Task
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -36,27 +17,25 @@ jobs:
 
   #  DEMO  Add Good Reads
 
-  update-readme-with-goodreads-books:
-    name: Update this repo's README with what you're currently reading
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
-        with:
-          # Replace this with your goodreads user id
-          goodreads_user_id: "136589918"
-          shelf: "currently-reading"
+  # update-readme-with-goodreads-books:
+  #   name: Update this repo's README with what you're currently reading
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: zwacky/goodreads-profile-workflow@main
+  #       with:
+  #         goodreads_user_id: "136589918"
+  #         shelf: "currently-reading"
 
-  update-readme-with-goodreads-books-read:
-    name: Update this repo's README with the last 5 books you've read
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@v1.2.1
-        with:
-          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
-          goodreads_user_id: "136589918"
-          shelf: "read"
-          comment_tag_name: "GOODREADS-READ-LIST"
-          max_books_count: "5"
-          template: "- [$title]($url) by $author ($my_rating_stars)"
+  # update-readme-with-goodreads-books-read:
+  #   name: Update this repo's README with the last 5 books you've read
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: zwacky/goodreads-profile-workflow@v1.2.1
+  #       with:
+  #         goodreads_user_id: "136589918"
+  #         shelf: "read"
+  #         comment_tag_name: "GOODREADS-READ-LIST"
+  #         max_books_count: "5"
+  #         template: "- [$title]($url) by $author ($my_rating_stars)"
