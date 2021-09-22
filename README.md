@@ -1,6 +1,9 @@
 <!-- Greeting Message | START  -->
 
-<h2 align="center"><img width="30px" src="https://imshubbh.com/Github/waving_hand.gif" /> Hello! I'm Shubham.</h2>
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/JrP8Drw/waving-hand.gif" alt="waving-hand" border="0" /></a> -->
+
+<!-- <h2 align="center"><img width="30px" src="https://imshubbh.com/Github/waving_hand.gif" /> Hello! I'm Shubham.</h2> -->
+<h2 align="center"><img width="30px" src="https://i.ibb.co/JrP8Drw/waving-hand.gif" /> Hello! I'm Shubham.</h2>
 
 <!-- Greeting Message | END  -->
 
