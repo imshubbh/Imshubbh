@@ -24,6 +24,33 @@
 
 ---
 
+<!-- Language And Tools | START  -->
+
+<details>
+  <summary><b>🛠️ &nbsp; Language & Tools  </b></summary>
+  <br/>
+
+<div align="center">
+
+[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)][website]
+[![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][website]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)][website]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)][website]
+[![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)][website]
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)][website]
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)][website]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)][website]
+
+[![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)][website]
+
+</div>
+
+</details>
+<!-- Language And Tools | END   -->
+
+---
+
 <!-- Weekly Breakdown | START  -->
 
 <details>
@@ -67,9 +94,19 @@ No Activity tracked this Week
 <br>
 <div align="center">
 
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imshubbh)
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/imshubbh)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imshubbh/)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubbh/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 <!-- Social Profile | END -->
+
+<!-- Social MEDIA  -->
+
+[website]: https//imshubbh.com
+[facebook]: https//facebook.com/imshubbh
+[youtube]: https//youtube.com/c/imshubbh
+[twitter]: https//twitter.com/imshubbh
+[instagram]: https//instagram.com/imshubbh
+[github]: https//github.com/imshubbh
+[linkedin]: https://linkedin.com/in/imshubbh/
