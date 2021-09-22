@@ -88,7 +88,7 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 
 <!-- GOODREADS-READ-LIST:START -->
 
-<!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-READ-LIST:END -->
 
 </details>
 
