@@ -73,6 +73,21 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 
 ---
 
+<!-- Current Reading | START  -->
+
+<details>
+  <summary><b>📚 &nbsp; Books I'm currently reading </b></summary>
+  <br/>
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+</details>
+
+<!-- Current Reading | END  -->
+
+---
+
 <!-- Latest Tweets | START  -->
 
 <details>
