@@ -58,11 +58,11 @@
   <br/>
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+Markdown   3 hrs 7 mins    ███████████████████████▒░   93.66 % 
+YAML       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
-
 <!--END_SECTION:waka-->
 
 </details>
