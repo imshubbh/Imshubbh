@@ -58,11 +58,13 @@
   <br/>
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   3 hrs 7 mins    ███████████████████████▒░   93.66 % 
-YAML       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown   3 hrs 7 mins    ███████████████████████▒░   93.66 %
+YAML       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
+
 <!--END_SECTION:waka-->
 
 </details>
@@ -78,12 +80,13 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
   <br/>
 
 <!-- GOODREADS-LIST:START -->
-- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4065874445?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.92)
+
+- [The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4065874445?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.92)
 <!-- GOODREADS-LIST:END -->
 
-<!-- GOODREADS-READ-LIST:START -->
-
 <h3 align="center">📚 &nbsp; Last 5 Books I've Read 🤓 </h3>
+
+<!-- GOODREADS-READ-LIST:START -->
 
 <!-- GOODREADS-LIST:END -->
 
