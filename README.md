@@ -87,7 +87,10 @@ JSON       1 min           ▒░░░░░░░░░░░░░░░░�
 <h3>📚 &nbsp; Last 5 Books I've Read 🤓 </h3>
 
 <!-- GOODREADS-READ-LIST:START -->
-
+- [Till The Last Breath](https://www.goodreads.com/review/show/4126477529?utm_medium=api&utm_source=rss) by Durjoy Datta (⭐⭐⭐⭐⭐)
+- [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/4065877771?utm_medium=api&utm_source=rss) by Phil Knight (⭐⭐⭐⭐⭐)
+- [Let&apos;s Talk Money](https://www.goodreads.com/review/show/4065877163?utm_medium=api&utm_source=rss) by Monika Halan (⭐⭐⭐⭐)
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/4123079141?utm_medium=api&utm_source=rss) by James Clear (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 </details>
