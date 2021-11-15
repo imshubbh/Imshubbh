@@ -16,7 +16,7 @@
 - 🌱 &nbsp; I’m currently learning **Js and React**
 - 💬 &nbsp; Ask me about **Js, React and Python**
 - 📫 &nbsp; How to reach me: [@imshubbh](https://twitter.com/imshubbh) on Twitter
-- ⚡ &nbsp; Fun fact: Big Fan of the :zap: emoji
+- ⚡ &nbsp; Fun fact: Big Fan of the :v: emoji
 
 </details>
 
