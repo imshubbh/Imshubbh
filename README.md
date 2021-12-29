@@ -59,8 +59,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         57 mins         ████████████████████░░░░░   79.78 % 
-Git Config   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+HTML         1 min           █████████████████████░░░░   83.74 % 
 ```
 <!--END_SECTION:waka-->
 
