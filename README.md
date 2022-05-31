@@ -60,12 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python          20 mins         ████████████░░░░░░░░░░░░░   47.92 %
-Text            13 mins         ████████▒░░░░░░░░░░░░░░░░   33.10 %
-YAML            6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Apache Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-HTML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Other           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
